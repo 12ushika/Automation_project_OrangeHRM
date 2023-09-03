@@ -9,9 +9,9 @@ This repository contains a collection of sample projects and libraries that demo
 1. Java
 2. Maven
 3. Eclipse
-4. Eclipse Plugins
-   Maven
-   Cucumber
+4. Eclipse Plugins :- 
+   1. Maven
+   2. Cucumber
 
    **Dependancy**
    
